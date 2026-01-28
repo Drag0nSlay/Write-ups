@@ -1,5 +1,7 @@
 # How I Hacked my College Attendance System - Not for Marks, but for Respect
 
+![Banner](PoC/file_0000000088a87230b7485dad7b39e19c.png)
+
 2023 - the year I took admission into college.
 Like most freshers, I was curious, observant, and already deep into cybersecurity. One day, a friend (Hacker K) casually said:
 > Yaha ek Attendance System (eSIM) hai... usko hack krna hai.
