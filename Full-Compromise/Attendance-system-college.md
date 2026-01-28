@@ -42,9 +42,12 @@ Email: <some-email@gmail.com>
 
 ### Testssl.sh
 ![PoC](PoC/Picsart_26-01-27_23-52-24-869.jpg)
+**Fig-1: Openssl Output**
 
 ### Open Ports and Services 
 ![PoC](PoC/Picsart_26-01-27_23-53-26-994.jpg)
+
+**Fig-2: Open Ports and Services**
 
 and some other vulnerabilities...
 
@@ -79,6 +82,8 @@ Anyway That is the part of life of every Bug Hunter.
 
 ![PoC](PoC/Screenshot_20260127-231618~2.png)
 
+**Fig-3: Ignored Responsible Disclosure**
+
 ---
 
 ## Betrayal Inside the Canteen 
@@ -95,22 +100,38 @@ That's when I decided:
 The college portal thought it was clever. Every login attempt doesn't matter **valid** or **invalid** responded with `HTTP 200 OK` To a basic script like **Hydra**, this creates a Wall of false positives. It's a classic "Security through Obscurity" move designed to annoy **script kiddies**.
 
 ![Poc](PoC/Picsart_26-01-27_23-26-22-019.jpg)
+**Fig-4: Hydra Output**
 
 ---
 
 **The Counter-Move:** I didn't care about the status code. I cared about **Entropy**. Using **Burp Intruder**, I amalyzed the response length of the `JSON` Payload.
 
 **The Noise:** 
-
 `{"d":"Invalid User"}`
 ![PoC](PoC/Picsart_26-01-27_23-43-04-960.jpg)
+**Fig-5: Depicted "Invalid User" (Login Failed) at the time of Bruteforce**
 
 **The Signal:**
-
 `{"d":"0"}`
 ![PoC](PoC/Picsart_26-01-27_23-40-29-325.jpg)
+**Fig-6: Successfully Logged-In using Bruteforce approach with Burp Intruder**
+
 
 A difference of just a few bytes was the "leak" I needed. By sorting the attack results by **Response Length**, I stripped away the camouflage.
 Later when I told this to another friend (Hacker R) then Within few minutes, He had the clear-text credentials for 20 professors. The "Uniform" they enforced at the door meant nothing when their backend was leaking success signals.
 
-![PoC](
+![PoC](PoC/Picsart_26-01-27_23-46-49-980.jpg)
+**Fig-7: Finally got the Admin Access**
+
+---
+
+## 0x02: The Logic Kill-Switch (Parameter Tampering)
+Gaining access wasn't enough. I wanted to own the session. so my friend (Hacker R) discovered that the application's state machine was built on trust - a fatal mistake in InfoSec.
+
+**The Exploit:**
+While Intercepting the logout and authentication traffic, He identified a recurring parameter: "d".
+By using **Burp Repeater** to manipulate the server-bound response, He injected a specific state: `{"d":"-1"}` 
+
+**The Result:** The server-side session management collapsed. Even after a "Logout" event, the system interpreted the tampered value as a persistent authenticated state. He had achieved **Persistent Session Hijacking** without needed to **re-log**.
+
+**The Lesson:** *Respect the Logic, or the logic will break you.*
