@@ -55,7 +55,7 @@ and some other vulnerabilities...
 
 ## The Day My Ego Hit
 A professor from **New York University** was visiting for a **Cybersecurity Lecture.** Registration was mandatory - I registered.
-When I reached the auditorium, I was stopped. Not because I wasn't registered. Not because of capacity. Because of**clothes**. really!!!, anyway
+When I reached the auditorium, I was stopped. Not because I wasn't registered. Not because of capacity. Because of **clothes**. really!!!, anyway
 
 They said:
 - Entry only in College Blazer.
