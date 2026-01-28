@@ -77,4 +77,19 @@ Later, in **good faith**, I emailed the department about **severe Vulnerability.
 That's hurt more than auditorium incident because silence from authority is the loudest form of disrespect.
 Anyway That is the part of life of every Bug Hunter.
 
-![PoC](
+![PoC](PoC/Screenshot_20260127-231618~2.png)
+
+---
+
+## Betrayal Inside the Canteen 
+One day, my friend (Hacker K) showed me something shocking. He had admin level access - Admin Credentials.
+We had worked on findings together but he refused to share the credentials. That moment felt like betrayal.
+Not because of credentials - but because of **credit and trust was broken.**
+
+That's when I decided:
+> Ab to me khud hi system compromise krunga
+
+--- 
+
+## 0x01: Defeating the "200 OK" Illusion
+The college portal thought it was clever. Every login attempt doesn't matter **valid** or **invalid** responded with `HTTP 200 OK` To a basic script like **Hydra**, this creates a Wall of false positives. It's a classic "Security through Obscurity" move designed to annoy **script kiddies**.
