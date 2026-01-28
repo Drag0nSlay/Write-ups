@@ -99,5 +99,13 @@ The college portal thought it was clever. Every login attempt doesn't matter **v
 ---
 
 **The Counter-Move:** I didn't care about the status code. I cared about **Entropy**. Using **Burp Intruder**, I amalyzed the response length of the `JSON` Payload.
+
 **The Noise:** 
-`{"d":"Invalid user"}`
+
+`{"d":"Invalid User"}`
+![PoC](PoC/Picsart_26-01-27_23-43-04-960.jpg)
+
+**The Signal:**
+
+`{"d":"0"}`
+![PoC](
