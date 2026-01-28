@@ -93,3 +93,11 @@ That's when I decided:
 
 ## 0x01: Defeating the "200 OK" Illusion
 The college portal thought it was clever. Every login attempt doesn't matter **valid** or **invalid** responded with `HTTP 200 OK` To a basic script like **Hydra**, this creates a Wall of false positives. It's a classic "Security through Obscurity" move designed to annoy **script kiddies**.
+
+![Poc](PoC/Picsart_26-01-27_23-26-22-019.jpg)
+
+---
+
+**The Counter-Move:** I didn't care about the status code. I cared about **Entropy**. Using **Burp Intruder**, I amalyzed the response length of the `JSON` Payload.
+**The Noise:** 
+`{"d":"Invalid user"}`
