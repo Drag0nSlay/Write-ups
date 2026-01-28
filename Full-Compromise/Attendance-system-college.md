@@ -108,4 +108,9 @@ The college portal thought it was clever. Every login attempt doesn't matter **v
 **The Signal:**
 
 `{"d":"0"}`
+![PoC](PoC/Picsart_26-01-27_23-40-29-325.jpg)
+
+A difference of just a few bytes was the "leak" I needed. By sorting the attack results by **Response Length**, I stripped away the camouflage.
+Later when I told this to another friend (Hacker R) then Within few minutes, He had the clear-text credentials for 20 professors. The "Uniform" they enforced at the door meant nothing when their backend was leaking success signals.
+
 ![PoC](
