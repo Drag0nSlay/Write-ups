@@ -1,4 +1,5 @@
 # Image Geolocation & Temporal Analysis – Tutankhamun Poster Case
+![Image](Images/osint-exercise-007-big-picture.png)
 
 ## 1. Executive Summary
 This report presents an Open-Source Intelligence (OSINT) investigation focused on geolocating an image and determining its approximate time 
@@ -41,7 +42,7 @@ Additional environmental elements such as paved walkways, pedestrian layout, and
 Through visual comparison and mapping tools, the sculpture was identified as the "Homem Sol" statue located in Lisbon, Portugal.
 
 **Coordinates:**
-[38.767644, -9.096053](Images/osint-exercise-007-big-picture.png)
+[38.767644, -9.096053](https://goo.gl/maps/avBAmAD1AEi6onnG6)
 
 ### 4.3 Poster Analysis
 
@@ -50,11 +51,12 @@ A poster visible in the image was isolated and analyzed. The poster contained th
 - **Event:** Tutankhamon – Treasures of Egypt
 - **Venue:** Portugal Pavilion, Lisbon (Park of Nations)
 - **Website:** www.tutankamon.pt
+
 [Poster](Images/Screenshot_20260320-152714~2.png)
 
 ### 4.4 Location Correlation
 
-The Portugal Pavilion is situated within the Park of Nations (Parque das Nações), which is geographically consistent with the identified location of the Homem Sol statue.
+The Portugal Pavilion is situated within the Park of Nations (Parque das Nações), which is geographically consistent with the identified location of the Homem Sol statue
 This spatial alignment confirms the accuracy of the geolocation.
 
 **📍 Reference:** Portugal Pavilion
