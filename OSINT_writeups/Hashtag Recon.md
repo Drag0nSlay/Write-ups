@@ -55,6 +55,7 @@ These hashtags were extracted and analyzed, revealing references to specific geo
 
 ### 4.6 Geolocation Correlation
 The identified hashtags were mapped to real-world locations, significantly reducing the search scope. This enabled more targeted investigation and contextual understanding of the individual's environment.
+[Geolocation](Images/Picsart_26-03-20_13-53-38-731.jpg)
 
 ### 4.7 Cross-Platform Correlation
 Using collected identifiers, advanced search queries were performed to locate related profiles on other platforms. A linked social media account was identified, which led to further associated profiles through connections and followers.
