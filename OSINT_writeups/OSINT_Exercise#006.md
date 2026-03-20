@@ -1,6 +1,6 @@
 # Misinformation Analysis – Misattributed Attack Image Case
 
-![Image]()
+![Image](Images/osintexercise006.webp)
 
 ## 1. Executive Summary
 
@@ -47,7 +47,7 @@ These sources predated the claimed 2023 event.
 - **Source:** US Navy  
 - **Location:** Outside Al Sabah newspaper office, Iraq  
 - **Date:** 27 August 2006  
-- **File Reference:** [WaziriyaAutobombeIrak.jpg]()
+- **File Reference:** [WaziriyaAutobombeIrak.jpg](Images/Screenshot_20260320-151833~3.png)
 
 ### 4.4 Context Verification
 
