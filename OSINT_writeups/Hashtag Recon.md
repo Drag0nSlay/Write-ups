@@ -63,6 +63,8 @@ Using collected identifiers, advanced search queries were performed to locate re
 ### 4.8 Information Expansion
 Correlation of multiple public sources resulted in the discovery of additional personal information, including contact related data and extended social presence.
 
+[Information_Disclosures](Images/Picsart_26-03-20_14-25-08-248.jpg)
+
 > All sensitive details have been redacted for ethical reasons.
 
 ## 5. Key Findings
