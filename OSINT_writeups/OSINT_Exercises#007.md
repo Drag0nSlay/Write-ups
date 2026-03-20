@@ -41,7 +41,7 @@ Additional environmental elements such as paved walkways, pedestrian layout, and
 Through visual comparison and mapping tools, the sculpture was identified as the "Homem Sol" statue located in Lisbon, Portugal.
 
 **Coordinates:**
-[38.767644, -9.096053]()
+[38.767644, -9.096053](Images/osint-exercise-007-big-picture.png)
 
 ### 4.3 Poster Analysis
 
@@ -50,7 +50,7 @@ A poster visible in the image was isolated and analyzed. The poster contained th
 - **Event:** Tutankhamon – Treasures of Egypt
 - **Venue:** Portugal Pavilion, Lisbon (Park of Nations)
 - **Website:** www.tutankamon.pt
-[Poster]()
+[Poster](Images/Screenshot_20260320-152714~2.png)
 
 ### 4.4 Location Correlation
 
