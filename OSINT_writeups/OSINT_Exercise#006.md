@@ -1,6 +1,8 @@
 # Misinformation Analysis – Misattributed Attack Image Case
 
-![Image](Images/osintexercise006.webp)
+<p>
+  <img src="Images/osintexercise006.webp" alt="Image" width=5000px height=900px>
+</p>
 
 ## 1. Executive Summary
 
