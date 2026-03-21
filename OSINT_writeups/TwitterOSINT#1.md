@@ -39,7 +39,7 @@ Findings indicate a high likelihood of identity misrepresentation and behavior c
 - Profile imagery appears generic and lacks verifiable ownership
 - No consistent digital footprint supporting claimed identity
 
-![X Account]()
+![X Account](Images/X_Account.jpg)
 
 ### 4.2 Metadata Contradiction
 
@@ -47,7 +47,7 @@ Findings indicate a high likelihood of identity misrepresentation and behavior c
 - Direct contradiction with claimed Indian identity
 - No supporting evidence linking account activity to Mumbai or India
 
-![Geolocation]()
+![Geolocation](Images/Geolocation.jpg)
 
 ### 4.3 Content & Narrative Targeting
 
@@ -73,7 +73,7 @@ Findings indicate a high likelihood of identity misrepresentation and behavior c
 - Indicators suggest reuse or non-authentic origin
 - No linkage to a verifiable real-world identity
 
-![Profile Image]()
+![Profile Image](Images/ProfileImage.jpg)
 
 ### 4.7 Cross-Platform Correlation
 
@@ -81,14 +81,14 @@ Findings indicate a high likelihood of identity misrepresentation and behavior c
 - No verifiable connection between profiles established
 - Identity linkage remains inconclusive
 
-![LinkedIn Account]()
+![LinkedIn Account](Images/LinkedinAccount.jpg)
 
 ### 4.8 Environmental Analysis
 
 - Background elements in associated images lack geolocation markers
 - No visual confirmation supporting claimed Indian origin
 
-![Profile's Image Bg]()
+![Profile's Image Bg](Images/ProfileImage.jpg)
 
 ### 4.9 Network Indicators
 
