@@ -50,6 +50,7 @@ These sources predated the claimed 2023 event.
 - **Location:** Outside Al Sabah newspaper office, Iraq  
 - **Date:** 27 August 2006  
 - **File Reference:** [WaziriyaAutobombeIrak.jpg](Images/Screenshot_20260320-151833~3.png)
+- **Source Credit:** [Link](https://commons.wikimedia.org/wiki/File:WaziriyaAutobombeIrak.jpg)
 
 ### 4.4 Context Verification
 
