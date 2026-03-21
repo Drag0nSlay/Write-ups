@@ -1,5 +1,7 @@
 # Analysis of Suspected Inauthentic X Account & Narrative Targeting
 
+![Poster](Images/1774089001403.jpg)
+
 ## 1. Executive Summary
 
 An X (Twitter) account claiming to represent an Indian individual was analyzed using open-source intelligence techniques.
