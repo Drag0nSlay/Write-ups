@@ -1,4 +1,7 @@
 # Hashtag Recon: OSINT Attack Surface Analysis
+
+![Poster](Images/1774089201922.jpg)
+
 This report presents an Open-Source Intelligence (OSINT) investigation conducted on a locally referenced YouTuber using minimal initial input.
 
 ## 1. Executive Summary
