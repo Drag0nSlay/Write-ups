@@ -4,7 +4,7 @@
 - **Target Identifier:** +91-9XXXXXXXXX
 - **Investigation Type:** Open Source Intelligence (OSINT)
 - **Scope:** Passive reconnaissance using publicly available information
-- **Analyst:** [Aman Kothari]
+- **Analyst:** [Aman Kothari](https://www.linkedin.com/in/aman-kothari-995944274/)
 - **Date:** ---
 
 ## Objective
