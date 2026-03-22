@@ -1,5 +1,7 @@
 # 📱 Phone Number OSINT Investigation Report
 
+![Poster](Images/Phone_Number_OSINT_Poster.png)
+
 ## Case Overview
 - **Target Identifier:** +91-9XXXXXXXXX
 - **Investigation Type:** Open Source Intelligence (OSINT)
