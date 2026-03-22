@@ -1,5 +1,7 @@
 # 🧠 Advanced Phone OSINT Dorks
 
+![Poster](Images/1774165679033.jpg)
+
 ### 1. Multi-format brute correlation
 People leak numbers in weird formats. Catch them all:
 ```bash
