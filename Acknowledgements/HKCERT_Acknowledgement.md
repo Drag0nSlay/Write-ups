@@ -72,4 +72,4 @@ Exposed ADB services on public networks present a critical security risk due to 
 ---
 
 ## 🙌 Acknowledgement
-This issue was responsibly disclosed to HKCERT, and acknowledgement was received from their team.
+This issue was responsibly disclosed to HKCERT (**Hong Kong Computer Emergency Response Team**), and acknowledgement was received from their team.
