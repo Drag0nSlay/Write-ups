@@ -1,5 +1,7 @@
 # Critical Security Risk – Exposed ADB Service (Port 5555)
 
+![Poster](Images/Gemini_Generated_Image_1jfsm51jfsm51jfs.png)
+
 ## 🧾 Overview
 A critical security exposure was identified involving an Android device with an open Android Debug Bridge (ADB) service accessible over the public internet. The service was exposed on TCP port 5555 without authentication.
 
