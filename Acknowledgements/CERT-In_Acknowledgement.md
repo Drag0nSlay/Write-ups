@@ -1,5 +1,7 @@
 # Possible Compromise – Government Website Hosting Spam Content
 
+![Poster](Images/Gemini_Generated_Image_7totbl7totbl7tot.png)
+
 ## 🧾 Overview
 A potential security incident was identified involving a government website hosting unauthorized and irrelevant content in the form of spam PDF files.
 
