@@ -33,6 +33,18 @@ The exposed service was identified through passive reconnaissance using publicly
 
 > Note: No active exploitation or interaction with the target system was performed.
 
+
+## 📸 Evidence (Sanitized)
+
+> Screenshots have been partially redacted to prevent misuse.
+
+- HKCERT acknowledgement (sensitive details blurred)
+- Shodan exposure preview (IP masked)
+
+## 🔗 Public Disclosure
+A summarized version of this finding was shared publicly:
+[LinkedIn Post]()
+
 ---
 
 ## 🛡️ Responsible Disclosure
