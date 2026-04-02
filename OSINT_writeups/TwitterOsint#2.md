@@ -57,6 +57,8 @@ and behavior consistent with inauthentic or coordinated activity.
   - Does not align with claimed Indian identity  
   - Suggests geographic inconsistency  
 
+![AboutAccount](Images/AboutAccount.png)
+
 These indicators reflect identity instability and strengthen suspicion 
 of inauthentic behavior.
 
@@ -66,6 +68,8 @@ of inauthentic behavior.
 - Presence of non-standard Hindi punctuation (e.g., “।।”)  
 - Irregular spacing patterns between Hindi words  
 
+![LinguisticPatterns](Images/LinguisticPatterns.png)
+
 These patterns suggest inconsistent or non-native linguistic behavior.
 
 ### 4.4 Content & Narrative Targeting
@@ -74,6 +78,8 @@ These patterns suggest inconsistent or non-native linguistic behavior.
 - Content targeting BJP, RSS, and Hindu religious sentiments  
 - Alignment with geopolitical narratives (e.g., Iran–Israel topics)  
 - Instances of misleading or misidentified media (e.g., incorrect video attribution)
+
+![Timestamp&PKT_Alignment](Images/Timestamp&PKT_Alignment.png)
 
 ### 4.5 Behavioural Patterns
 
