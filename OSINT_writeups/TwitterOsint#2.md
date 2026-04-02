@@ -1,5 +1,7 @@
 # Analysis of Suspected Inauthentic X Account (@Shikhasinghana)
 
+![Poster](Images/1774089001403.jpg)
+
 ## 1. Executive Summary
 
 An X (Twitter) account operating under the identity "Shikha Singh" 
