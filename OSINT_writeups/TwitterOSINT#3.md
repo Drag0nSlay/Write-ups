@@ -1,6 +1,8 @@
 # 📝 OSINT Investigation Report  
 ## Analysis of X Account (@Priyaa_Purohit)
 
+![Poster](Images/1774089001403.jpg)
+
 ---
 
 ## 1. Executive Summary
