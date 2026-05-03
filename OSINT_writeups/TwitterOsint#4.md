@@ -1,5 +1,5 @@
 # Subject: Correlation Analysis of X Account & “Pathan Transport” Entity
-
+![Poster](Images/PathanTransport.png)
 ## 1. Objective
 
 To identify and gather publicly available information about a Twitter user who was involved in posting abusive content towards **Hindu [Gods](Images/Gods.jpg)** using only open-source intelligence (OSINT) techniques.
