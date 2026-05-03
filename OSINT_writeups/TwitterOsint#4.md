@@ -127,7 +127,7 @@ Using only a **single profile image (truck DP)**, the following was achieved:
 After being presented with extracted information:
 
 - Target deleted Facebook posts
-- Changed Twitter profile picture [Tire Images]()
+- Changed Twitter profile picture [Tires Image]()
 - Removed identifiable content
 
 ### Interpretation:
