@@ -2,7 +2,7 @@
 
 ## 1. Objective
 
-To identify and gather publicly available information about a Twitter user who was involved in posting abusive content towards **Hindu [Gods]()** using only open-source intelligence (OSINT) techniques.
+To identify and gather publicly available information about a Twitter user who was involved in posting abusive content towards **Hindu [Gods](Images/Gods.jpg)** using only open-source intelligence (OSINT) techniques.
 
 - **X (Twitter) account:** @PTransport4579 (**Username:** Khan4355)
 - A transport business operating under the name “**Pathan Transport**”
@@ -15,7 +15,7 @@ To identify and gather publicly available information about a Twitter user who w
 - Platform: X (Twitter)
 - Username: **Khan4355** (Now changed to **Baap**)
 - Handle: **@PTTransport4579**
-- Profile Picture: [Truck image]() (Goods Carrier)
+- Profile Picture: [Truck image](Images/Truck.jpg) (Goods Carrier)
 
 The investigation was initiated based on the **display picture (DP)**, which showed a transport truck.
 
@@ -127,7 +127,7 @@ Using only a **single profile image (truck DP)**, the following was achieved:
 After being presented with extracted information:
 
 - Target deleted Facebook posts
-- Changed Twitter profile picture [Tires Image]()
+- Changed Twitter profile picture [Tires Image](Images/Tires.jpg)
 - Removed identifiable content
 
 ### Interpretation:
