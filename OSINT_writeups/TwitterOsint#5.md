@@ -1,5 +1,5 @@
 # OSINT Investigation: Locating the "Skyline of North Bhubaneswar"
-![Poster]()
+![Poster](Images/Lalchnd.jpg)
 
 **Investigator:** Aman Kothari
 
