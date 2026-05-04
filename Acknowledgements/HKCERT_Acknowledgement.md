@@ -45,7 +45,7 @@ The exposed service was identified through passive reconnaissance using publicly
 
 ## 🔗 Public Disclosure
 A summarized version of this finding was shared publicly:
-[LinkedIn Post]()
+[LinkedIn Post](https://www.linkedin.com/posts/aman-kothari-995944274_cybersecurity-responsibledisclosure-hkcert-activity-7341294233657425920-LhO7?utm_source=share&utm_medium=member_android&rcm=ACoAAEMPEIEBkP_6DK_YORdL0VqmbRIov8tHmHI)
 
 ---
 
