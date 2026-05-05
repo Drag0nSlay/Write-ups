@@ -90,7 +90,7 @@ Findings indicate a high likelihood of identity misrepresentation and behavior c
 - Background elements in associated images lack geolocation markers
 - No visual confirmation supporting claimed Indian origin
 
-![Profile's Image Bg](Images/ProfileImage.jpg)
+![Profile's Image Bg](Images/ProfileBg.jpg)
 
 ### 4.9 Network Indicators
 
