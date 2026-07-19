@@ -1,5 +1,7 @@
 # Case Study: Responsible Disclosure of Student PII & Financial Data Exposure
 
+![Poster](Images/Gemini_Generated_Image_4qg0mx4qg0mx4qg0.png)
+
 ## Executive Summary
 This case study documents the discovery, risk assessment, and successful remediation of a high-severity data exposure found on a prominent public educational institution's domain. The vulnerability exposed sensitive Personally Identifiable Information (PII) and banking credentials of approximately 377 students to the public internet without authentication. 
 
