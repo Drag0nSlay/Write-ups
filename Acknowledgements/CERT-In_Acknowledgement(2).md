@@ -57,7 +57,15 @@ Upon receiving the formal proof-of-concept, CERT-In coordinated with the institu
 *All sensitive infrastructure endpoints and PII have been strictly redacted to maintain disclosure integrity.*
 
 1. Reported Mail
+
+![Reported_Mail](Images/Picsart_26-07-19_16-39-51-098.jpg)
+
 2. Redacted Proof of Exposure
+
+![POC](Images/2026-07-14 14_31_35-.png)
+
 3. CERT-In Triage Confirmation
+
+![ACK](Images/Picsart_26-07-19_16-45-11-773.jpg)
 
 > Disclaimer: This repository is maintained strictly for educational and portfolio purposes. No identifying logs, live endpoints, or active user data have been or will be published.
