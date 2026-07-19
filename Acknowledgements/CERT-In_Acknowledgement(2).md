@@ -25,9 +25,9 @@ site:[redacted_target_domain] filetype:pdf inurl:accounts
 
 ### Affected Component
 
-**Target Domain:** [REDACTED].[REDACTED].in
+- **Target Domain:** [REDACTED].[REDACTED].in
 
-**Exposed Path:** https://www.[redacted].[redacted_domain]/accounts/refundlist2015/[redacted].pdf
+- **Exposed Path:** https://www.[redacted].[redacted_domain]/accounts/refundlist2015/[redacted].pdf
 
 ### 🚨 Data Impact Assessment
 The unauthenticated directory contained an active database dump/export in PDF format. A manual audit of the file structure revealed the exposure of:
@@ -49,9 +49,9 @@ Had this data been scraped by malicious threat actors, it could have been weapon
 Upon receiving the formal proof-of-concept, CERT-In coordinated with the institution's network administrators to enforce immediate containment.
 
 #### Current Security Posture (Verified)
-**Direct File Access:** Returns `404 Not Found` (Asset successfully expunged).
+- **Direct File Access:** Returns `404 Not Found` (Asset successfully expunged).
 
-**Directory Traversal Route:** Returns `403 Forbidden` (Server-side indexing disabled).
+- **Directory Traversal Route:** Returns `403 Forbidden` (Server-side indexing disabled).
 
 🧾 Evidence & Acknowledgments
 *All sensitive infrastructure endpoints and PII have been strictly redacted to maintain disclosure integrity.*
@@ -62,7 +62,7 @@ Upon receiving the formal proof-of-concept, CERT-In coordinated with the institu
 
 2. Redacted Proof of Exposure
 
-![POC](Images/2026-07-14 14_31_35-.png)
+![POC](Images/POC.png)
 
 3. CERT-In Triage Confirmation
 
